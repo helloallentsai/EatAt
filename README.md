@@ -1,8 +1,7 @@
 # EatAt
-An app for restaurant reviews featuring image carousel, related articles, and other nearby restaurants.
+An app for restaurant reviews featuring image carousel, related articles, and other nearby restaurants. The image carousel features clickable images from landing page rendering a single image view or the option to view all of the images together. Single images can be cycled through by buttons or keyboard arrows.
 
 ## Demo
-I created a photo carousel with expandable social card. Images are clickable from landing page rendering a single image view or the option to view all of the images together. Single images can be cycled through by buttons or keyboard arrows.
 
 ![demo](../assets/demo.gif?raw=true)
 
