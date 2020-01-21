@@ -31,7 +31,7 @@ To seed database, transpile React components, and start server, navigate inside 
 ```
 $ npm install
 $ npm run db:seed
-$ npm build
+$ npm run build
 $ npm start
 ```
 
