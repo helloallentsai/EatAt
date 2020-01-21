@@ -1,9 +1,8 @@
 # EatAt
-
-> App for restaurant reviews featuring  photo carousel, related articles, and other nearby restaurants.
+An app for restaurant reviews featuring image carousel, related articles, and other nearby restaurants.
 
 ## Demo
-Responsible for creating a photo carousel with social card.
+I created a photo carousel with expandable social card. Images are clickable from landing page rendering a single image view or the option to view all of the images together. Single images can be cycled through by buttons or keyboard arrows.
 
 ![demo](../assets/demo.gif?raw=true)
 
@@ -15,7 +14,7 @@ Single image view
 
 ![single](../assets/single.png?raw=true)
 
-Multi iamge view
+Multi image view
 
 ![multi](../assets/multi.png?raw=true)
 
@@ -27,7 +26,7 @@ Navigate to preferred local directory and clone the github repo:
 $ git clone https://github.com/helloallentsai/EatAt.git
 ```
 
-Navigate inside the directory and run the following commands:
+To seed database, transpile React components, and start server, navigate inside the directory and run the following commands:
 
 ```
 $ npm install
@@ -35,8 +34,6 @@ $ npm run db:seed
 $ npm build
 $ npm start
 ```
-
-Database will be seeded, React components transpiled, and Express server will be up and running.
 
 ## Built With
 
