@@ -6,6 +6,7 @@ I created a photo carousel with expandable social card. Images are clickable fro
 
 ![demo](../assets/demo.gif?raw=true)
 
+## Photos
 Landing page
 
 ![main](../assets/main.png?raw=true)
